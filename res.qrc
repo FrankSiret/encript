@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qml/Bar.qml</file>
+        <file>font/OpenSans-Regular.ttf</file>
+    </qresource>
+</RCC>
